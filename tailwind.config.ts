@@ -11,6 +11,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        colors: {
+          whitesmoke: "#f5f5f5",
+          bone: "#e3dac9",
+        },
+      },
+      fontFamily: {
+        montserrat: ['Montserrat', 'sans-serif'],
       },
     },
   },
