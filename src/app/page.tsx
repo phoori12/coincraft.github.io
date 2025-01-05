@@ -125,7 +125,7 @@ export default function Home() {
         </div>
 
         {/* Customization Options */}
-        <div className="grid justify-items-center">
+        <div className="grid justify-items-center text-black">
           {/* Coin Shape Arrow Selector */}
           <div>
           {/* <p>Coin Shape:</p> */}
