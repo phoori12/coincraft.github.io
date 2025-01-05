@@ -116,7 +116,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col justify-center items-center p-10 m-auto gap-8 bg-colors-whitesmoke rounded-2xl">
-      <h1 className="text-3xl font-bold">Craft Your Own Crypto Coin</h1>
+      <h1 className="text-3xl font-bold text-black">Craft Your Own Crypto Coin</h1>
       <div>
       <div style={{ display: "flex", gap: "20px" }}>
         {/* Canvas Section */}
